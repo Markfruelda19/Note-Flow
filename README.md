@@ -25,3 +25,4 @@ This project was created to practice CRUD operations, database management, AJAX 
 - Note categories/tags
 - Pin favorite notes
 - Rich text editor
+<img width="1920" height="916" alt="image" src="https://github.com/user-attachments/assets/a6667a89-04fb-4d4c-a019-eba22c891244" />
